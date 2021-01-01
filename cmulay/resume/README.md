@@ -1,0 +1,1 @@
+Save your resume to this folder and replace sample.docx in header of all html files with your resume name.
