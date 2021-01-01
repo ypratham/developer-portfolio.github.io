@@ -1,0 +1,1 @@
+Use this folder to store your icons, favicons, and logo.
